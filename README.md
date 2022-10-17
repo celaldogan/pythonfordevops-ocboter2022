@@ -5,12 +5,18 @@ python devops
 
 ## Create a project scaffold
 
+* Created develoment environment that is cloud-based:
+
+### colab Notebook
+### Github Codespaces
+### AWS CloudShell
+### AWS Cloud-9
 
 ## Command-Lines Tools
 
 
 
-##Microservices
+## Microservices
 
 
 ## Containerized Continuous Delivery
