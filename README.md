@@ -8,6 +8,7 @@ python devops
 * Created develoment environment that is cloud-based:
 
 ### colab Notebook
+* This is an example of how to use [colab]:https://github.com/celaldogan/pythonfordevops-ocboter2022/blob/main/getting_start_pyhton.ipynb
 ### Github Codespaces
 ### AWS CloudShell
 ### AWS Cloud-9
